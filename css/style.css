@@ -62,7 +62,6 @@ ul li {
 }
 
 #clickable01 a {
-#clickable01 a {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -82,8 +81,6 @@ ul li {
     align-items: center;
     margin-left: 5%;
     gap: 30px;
-    /* Inside auto layout */
-    /* Inside auto layout */
     flex: none;
     order: 3;
     flex-grow: 0;
@@ -98,17 +95,11 @@ ul li {
     font-size: 24px;
     font-weight: 300;
     transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s;
 }
 
 .nav-items a:hover{
     color: #b1b1b1;
-.nav-items a:hover{
-    color: #b1b1b1;
 }
-
-footer {
-
 footer {
     display: flex;
     justify-content: center;
