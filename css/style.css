@@ -18,12 +18,16 @@ header {
     height: 125px;
     background-color: #0F0F10;
     display: flex;
-    flex-direction: row;
+    flex-direction: row; 
     align-items: flex-start;
     padding: 0px;
     flex: none;
     order: 0;
     flex-grow: 0;
+}
+ul li {
+    text-decoration: none;
+    list-style: none;
 }
 .logo {
     display: flex;
