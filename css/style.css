@@ -73,6 +73,7 @@ ul li {
     height: 80px;
     order: 1;
     flex-grow: 0;
+    letter-spacing: 2px;
 }
 .midias{
     display: flex;
